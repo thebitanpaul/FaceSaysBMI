@@ -1,4 +1,8 @@
-# Facial BMI prediction
+# FaceSaysBMI
+Predict BMI, age, and gender from facial images using deep learning.
+
+
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784646670/uu3wjohrqff38shoapql.webp"/>
 
 ## File structure
 
@@ -164,6 +168,16 @@ To know more about me, type ```"Bitan Paul"``` on your google search.
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thebitanpaul_)
 
 ---
-## License 
-[Apache-2.0](LICENSE)
+
+## License
+
+This project is licensed under the [Apache-2.0](LICENSE).
+See the LICENSE file for full license text.
+
 ---
+
+<div align="center">
+
+**2024 · © phiUture · All Rights Reserved**
+
+</div>
