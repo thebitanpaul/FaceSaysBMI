@@ -130,7 +130,7 @@ Here you can see the working demo.
 
 
 <a href="https://youtube.com/shorts/xp-KGHN4Zgk" target="_blank">
-<img src="https://img.youtube.com/vi/xp-KGHN4Zgk/hqdefault.jpg" width="250" alt="Tera Mera Afsaana"/>
+<img src="https://img.youtube.com/vi/xp-KGHN4Zgk/hqdefault.jpg" width="1080"/>
 </a>
 
 https://user-images.githubusercontent.com/99794785/188427670-e5f1c002-f0e1-40ed-9460-537ead4cea77.mov
