@@ -126,13 +126,12 @@ For better understanding :
  * VGGFace: [https://github.com/rcmalli/keras-vggface](https://github.com/rcmalli/keras-vggface)
 ## Demo
 
-Here you can access the web-application.
+Here you can see the working demo.
 
-<p align="center">
-  <a href="https://youtu.be/xp-KGHN4Zgk">
-    <img src="https://img.shields.io/badge/▶-Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-</p>
+
+<a href="https://youtube.com/shorts/xp-KGHN4Zgk" target="_blank">
+<img src="https://img.youtube.com/vi/xp-KGHN4Zgk/hqdefault.jpg" width="250" alt="Tera Mera Afsaana"/>
+</a>
 
 https://user-images.githubusercontent.com/99794785/188427670-e5f1c002-f0e1-40ed-9460-537ead4cea77.mov
 
